@@ -1,7 +1,6 @@
 package ro.ase.ism.sap.deepcopy;
 
 public class TestStringInt {
-
     public static class Account{
         String username;
         String password;

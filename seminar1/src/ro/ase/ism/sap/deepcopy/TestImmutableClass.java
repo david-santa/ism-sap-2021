@@ -1,7 +1,6 @@
 package ro.ase.ism.sap.deepcopy;
 
 public class TestImmutableClass {
-
     static class UserAccount{
         private final String username;
         private final String password;

@@ -1,4 +1,4 @@
-package ism.ase.ro;
+package ro.ase.ism.sap;
 
 public class Main {
 

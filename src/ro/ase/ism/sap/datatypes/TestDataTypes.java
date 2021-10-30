@@ -1,4 +1,4 @@
-package ism.ase.ro.datatypes;
+package ro.ase.ism.sap.datatypes;
 
 import java.util.Base64;
 
